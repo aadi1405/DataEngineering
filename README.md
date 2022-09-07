@@ -37,4 +37,4 @@ Management Student, by the end of next year, I also wish to develop my managemen
 that excites me and I wish to continue pursuing it in the future. Learning is a continuous process and technology is constantly evolving. 
 In five years, I want to be in a place where I am up to date (or at least trying to be!) with the technology around me.
 
-
+---
