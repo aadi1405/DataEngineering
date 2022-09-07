@@ -22,10 +22,10 @@ The length of post: max 500 words
 ```
 
 -In this quarter, few of the things I want to focus on is-
-       1) Strengthening Data Structures & Algorithms Concepts 
-       2) Becoming Proficient in Python and 
-       3) Diving into the world of Data Engineering (including AWS, SQL, Bash) by using the available resources, exploring the internet and c
-       ollaborating with others! This will help me with my long-term goals.
+       1) Strengthening Data Structures & Algorithms Concepts\ 
+       2) Becoming Proficient in Python and\ 
+       3) Diving into the world of Data Engineering (including AWS, SQL, Bash) 
+       by using the available resources, exploring the internet and collaborating with others! This will help me with my long-term goals.\
 -By the end of this year, I want to be confident with my Data Engineering skills (including programming, database systems, communication etc.) 
 by working on projects and completing certifications. I also want to learn and build my Github profile and create a platform for other students 
 to learn along with me (about different courses, concepts, projects etc.).
