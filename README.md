@@ -52,6 +52,7 @@ It is always good to try out different tools and editors to understand which one
 
 -I personally love VS Code due to its user-friendly features like auto-suggestion, auto-indention, easy access to extensions, visual convenience etc. It also allows us to program in different languages and integrate files easily. It is also very convenient when working with large files due to its clean graphical interface and debugging capabilities.
 
- 
 
 On researching, I found that knowing both Vim and VS Code provides the convenience of not only working with each of the editors individually but also enabling the use of Vim on Visual Studio by using VSVim (kind off like the best of both worlds!) It is also about "for what", "when" and "how" we make use of each of these editors.
+
+---
