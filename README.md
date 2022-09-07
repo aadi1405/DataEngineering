@@ -8,7 +8,7 @@ Mostly about my learnings from class IDS 706 @ Duke University! Hoping that this
 
 ---
 
-### Week 1 Assignment: Discussion
+### Week 1 - Discussion
 
 
 ```
@@ -38,3 +38,20 @@ that excites me and I wish to continue pursuing it in the future. Learning is a 
 In five years, I want to be in a place where I am up to date (or at least trying to be!) with the technology around me.
 
 ---
+
+### Week 2 - Discussion
+
+```
+What are the advantages of knowing both Vim and VSCode?
+```
+It is always good to try out different tools and editors to understand which one suits your (coding) style the best!
+
+ 
+-Vim is convenient for making small changes to your file,  allows quick access to files and also is highly scalable. This text editor is also known to be highly configurable which allows efficient programming!
+ 
+
+-I personally love VS Code due to its user-friendly features like auto-suggestion, auto-indention, easy access to extensions, visual convenience etc. It also allows us to program in different languages and integrate files easily. It is also very convenient when working with large files due to its clean graphical interface and debugging capabilities.
+
+ 
+
+On researching, I found that knowing both Vim and VS Code provides the convenience of not only working with each of the editors individually but also enabling the use of Vim on Visual Studio by using VSVim (kind off like the best of both worlds!) It is also about "for what", "when" and "how" we make use of each of these editors.
