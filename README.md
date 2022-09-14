@@ -59,6 +59,23 @@ It is always good to try out different tools and editors to understand which one
 On researching, I found that knowing both Vim and VS Code provides the convenience of not only working with each of the editors individually but also enabling the use of Vim on Visual Studio by using VSVim (kind off like the best of both worlds!) It is also about "for what", "when" and "how" we make use of each of these editors.
 
 ---
+### Week 3 - Discussion
+
+```
+What are the advantages of Microservices?
+ ```
+	
+Troubleshooting and error detection will be more convenient. It allows fault isolation and becomes easier to maintain code.
+	
+Reduces security risks and increases reliability as the functioning of one component wont affect the functioning of another.
+	
+Due to its independent nature, it can be easily deployed in different environments. Hence, microservices are also highly reusable. Developers will be able to reuse code and don't have to build projects from scratch.
+	
+They are scalable and require relatively less resources as they're precisely scaled only to the components that require it. 
+	
+Microservices are prioritized and  used by businesses today as they are efficient,  help reduce downtime, and allow to segregate different functionalities.
+	
+Cloud microservices are great as they allow collaboration between people and hence help in parallel computing, so different teams can work in parallel and this makes the development process quicker.
 
 
 ### Project 1 
