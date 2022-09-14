@@ -59,3 +59,8 @@ It is always good to try out different tools and editors to understand which one
 On researching, I found that knowing both Vim and VS Code provides the convenience of not only working with each of the editors individually but also enabling the use of Vim on Visual Studio by using VSVim (kind off like the best of both worlds!) It is also about "for what", "when" and "how" we make use of each of these editors.
 
 ---
+
+
+### Project 1 
+
+##### Step 1 - Setting up my environment
