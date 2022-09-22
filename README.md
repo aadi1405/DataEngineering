@@ -90,14 +90,14 @@ FlaskAPI, FastAPI, and Django are all frameworks that are available in python pa
 
 
 
-Flask:
+**Flask:**
 Flask is a small, lightweight framework.
 Minimalistic frameworks that is mostly for developing fast websites
 Following FastAPI, Flask is pretty fast.
 Readable, beginner-friendly and less complex.
 
 
-Django:
+**Django:**
 Django is a more common, open-source high-level framework.
 Full-stack web development framework with large number of packages.
 Django is not as fast as FastAPI or Flask.
@@ -105,7 +105,7 @@ Well Documented and more scalable.
 
 
 
-FastAPI:
+**FastAPI:**
 FastAPI is a new-er and more modern framework (first release was in 2018)
 Minimalistic frameworks that is mostly for developing fast websites
 In terms of performance, just like the name, FastAPI is fast.
