@@ -77,7 +77,7 @@ Microservices are prioritized and  used by businesses today as they are efficien
 	
 Cloud microservices are great as they allow collaboration between people and hence help in parallel computing, so different teams can work in parallel and this makes the development process quicker.
 
-
+---
 ### Project 1 
 
 [MOVIE RECOMMENDATION SYSTEM](https://github.com/aadi1405/IDS706_Project1_AJ)
