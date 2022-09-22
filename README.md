@@ -81,3 +81,36 @@ Cloud microservices are great as they allow collaboration between people and hen
 ### Project 1 
 
 [MOVIE RECOMMENDATION SYSTEM](https://github.com/aadi1405/IDS706_Project1_AJ)
+
+---
+### Week 4 - Discussion
+
+FlaskAPI, FastAPI, and Django are all frameworks that are available in python particularly for developing web applications. I gathered some important points about the three frameworks that will help us understand each of these frameworks and decide on which framework to use!
+ 
+
+
+
+Flask:
+Flask is a small, lightweight framework.
+Minimalistic frameworks that is mostly for developing fast websites
+Following FastAPI, Flask is pretty fast.
+Readable, beginner-friendly and less complex.
+
+
+Django:
+Django is a more common, open-source high-level framework.
+Full-stack web development framework with large number of packages.
+Django is not as fast as FastAPI or Flask.
+Well Documented and more scalable.
+
+
+
+FastAPI:
+FastAPI is a new-er and more modern framework (first release was in 2018)
+Minimalistic frameworks that is mostly for developing fast websites
+In terms of performance, just like the name, FastAPI is fast.
+Less debugging time, simple and fast.
+
+Based on the factors above-
+
+We can use Django for creating large scale, more complex scalable web applications. Example - social media applications (Fun fact: Instagram , Youtube and Spotify use Django), huge online market or shopping websites. Flask can be used for static sites or e-commerce site. FastAPI can be used in a situation where speed is a concern and the documentation of FastAPI is still growing (Fun fact: Uber uses FastAPI)
