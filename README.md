@@ -114,3 +114,27 @@ Less debugging time, simple and fast.
 Based on the factors above-
 
 We can use Django for creating large scale, more complex scalable web applications. Example - social media applications (Fun fact: Instagram , Youtube and Spotify use Django), huge online market or shopping websites. Flask can be used for static sites or e-commerce site. FastAPI can be used in a situation where speed is a concern and the documentation of FastAPI is still growing (Fun fact: Uber uses FastAPI)
+
+---
+### Week 5 - Discussion
+
+What is the difference between Docker and Virtual Machine.
+Often Docker containers are confused as Virtual Machines but Docker containers are not Virtual Machines even though they are often compared together.
+
+
+
+DOCKER
+Generally, virtualizes only the application layer of the OS and uses the kernel of the host
+Docker size is generally smaller(KBs/MBs)
+Docker containers are faster
+Easy to scale-up and duplicate containers, relatively less rescue usage.
+
+
+VIRTUAL MACHINE
+Larger when compared to Docker.
+Generally, Virtualizes both the application layer and the Kernel (So, it boots up on its own kernel!)
+Slower when compared to Docker, and since they have to start their own kernel.
+More Resource Usage
+
+
+
